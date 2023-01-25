@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.hello {
+  text-align: center;
+  color: yellow;
+}
+
+.hello h1:hover {
+  color: blue;
+  cursor: pointer;
+}
